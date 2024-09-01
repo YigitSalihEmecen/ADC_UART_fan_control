@@ -1,0 +1,12 @@
+../Core/Src/main.c:88:6:PotControl	4
+../Core/Src/main.c:120:6:TerminalControl	1
+../Core/Src/main.c:139:6:HAL_TIM_PeriodElapsedCallback	6
+../Core/Src/main.c:185:6:ProgramLoop	6
+../Core/Src/main.c:228:5:main	1
+../Core/Src/main.c:276:6:SystemClock_Config	4
+../Core/Src/main.c:337:13:MX_ADC1_Init	3
+../Core/Src/main.c:395:13:MX_TIM1_Init	7
+../Core/Src/main.c:475:13:MX_TIM16_Init	2
+../Core/Src/main.c:507:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:542:13:MX_GPIO_Init	1
+../Core/Src/main.c:585:6:Error_Handler	1
