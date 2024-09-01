@@ -11,7 +11,6 @@ This project implements a fan control system on an STM32 microcontroller, provid
 - [Setup and Usage](#setup-and-usage)
 - [Control Methods](#control-methods)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
